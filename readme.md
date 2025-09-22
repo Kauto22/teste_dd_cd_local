@@ -1,0 +1,6 @@
+- Criou repositório local: git init
+- Adicionou arquivos ao stage: git add .
+- Fez commit: git commit -m "mensagem do commit"
+- Configure o usuário do commit
+  - git config --global user.name "Seu Nome"
+  - git config --global user.email "email"
