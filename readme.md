@@ -1,5 +1,5 @@
 safasf asgasgasgasg a
-sfafasfa  asggasgasga
+sfafasfa  asggasgasga ghjghjghjghjhjghjgjg kjkhkjhkhjhkjh
 
 - Criou repositório local: git init
 - Adicionou arquivos ao stage: git add .
